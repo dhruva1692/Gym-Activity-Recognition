@@ -7,7 +7,7 @@ The work is based on my M.Tech academic project and associated research report.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 - The dataset contains motion sensor readings collected during different gym workouts.
 - Each activity has multiple samples recorded using accelerometer and gyroscope sensors.
@@ -16,7 +16,7 @@ The work is based on my M.Tech academic project and associated research report.
 
 ---
 
-## 📝 Steps Performed in the Project
+##  Steps Performed in the Project
 
 - Loaded and cleaned sensor dataset  
 - Handled missing values and normalized features  
@@ -32,7 +32,7 @@ The work is based on my M.Tech academic project and associated research report.
 
 ---
 
-## 📊 Results Summary
+##  Results Summary
 
 - The machine learning models were able to distinguish different gym activities with high accuracy.
 - Random Forest and SVM models performed the best among all tested algorithms.
@@ -40,7 +40,7 @@ The work is based on my M.Tech academic project and associated research report.
 
 ---
 
-## 🔧 Tools & Libraries
+##  Tools & Libraries
 
 - Python  
 - Pandas  
@@ -50,7 +50,7 @@ The work is based on my M.Tech academic project and associated research report.
 
 ---
 
-## 📂 Files Included in This Repository
+##  Files Included in This Repository
 
 | File Name                          | Description |
 |------------------------------------|-------------|
@@ -60,7 +60,7 @@ The work is based on my M.Tech academic project and associated research report.
 
 ---
 
-## 📍 Dataset Information
+##  Dataset Information
 
 - Contains accelerometer + gyroscope readings  
 - Features include X/Y/Z axis motion data  
@@ -69,7 +69,7 @@ The work is based on my M.Tech academic project and associated research report.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Dhruv Kukadiya**  
 M.Tech – AI & Data Science  
